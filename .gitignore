@@ -1,0 +1,21 @@
+# Configuración de Entorno
+.env
+.gemini/
+
+# Dependencias
+node_modules/
+
+# Archivos de Sistema / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Subidas dinámicas (no gestionadas por Git)
+uploads/
+
+# QRs offline pre-generados (generados dinámicamente, no gestionados por Git)
+offline_qrs/
+
+# Scripts de Deploy
+# .scripts/ (Versionado en GitHub pero excluido del host)
